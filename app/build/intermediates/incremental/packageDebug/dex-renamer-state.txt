@@ -1,0 +1,7 @@
+#Sat Nov 25 13:53:25 CET 2017
+base.0=C\:\\Users\\Mazigh-zizou\\AndroidStudioProjects\\PuzzleAttack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3783a98e1883680a5fa61e10483c6b0472eddabf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Mazigh-zizou\\AndroidStudioProjects\\PuzzleAttack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_caaaa4ca6ee547b734f0d45a9e3716e98e88b01d\\classes.dex
+base.1=C\:\\Users\\Mazigh-zizou\\AndroidStudioProjects\\PuzzleAttack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_caaaa4ca6ee547b734f0d45a9e3716e98e88b01d
+file.0=C\:\\Users\\Mazigh-zizou\\AndroidStudioProjects\\PuzzleAttack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3783a98e1883680a5fa61e10483c6b0472eddabf\\classes.dex
